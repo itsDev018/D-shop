@@ -1,0 +1,16 @@
+#navbar {
+  padding: 12px;
+}
+
+#navbar div{
+  margin-right: 2.5%;
+}
+
+a.nav-link.active {
+  color: #ff7324 !important;
+}
+
+#navbar small a{
+  margin-left: 50px;
+  color: rgb(164 136 231) !important;
+}

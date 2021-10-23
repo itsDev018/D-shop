@@ -1,0 +1,13 @@
+#upload-form{
+  margin-top: 12%;
+  transition: .4s ease;
+  background-color: black;
+  padding: 28px;
+  padding-bottom: 65px;
+}
+#upload-form h4 {
+  color:rgb(164 136 231);
+}
+#upload-form input:focus{
+  border-color: rgb(164 136 231);
+}
