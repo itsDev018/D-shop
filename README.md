@@ -1,5 +1,5 @@
 # D-shop
-Decentralized shop with Ethereum
+Decentralized shop that accepts payments between accounts with Ethereum using MetaMask.
 
 Technologies used:
 - Web3.js
