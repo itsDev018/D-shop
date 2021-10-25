@@ -5,6 +5,7 @@ Technologies used:
 - Web3.js
 - Truffle
 - Ganache
+- Coingecko API
 - Node.js
 - Solidity
 - Bootstrap
